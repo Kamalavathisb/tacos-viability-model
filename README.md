@@ -30,6 +30,10 @@ Margin: 30%
 ➡ TACoS: 16.6%, Net Profit: ₹40,000 ✅ Viable
 ## 📥 Download Model
 [Click here to download the Excel model](https://github.com/Kamalavathisb/tacos-viability-model/raw/main/TACoS_Viability_Model(1).xlsx)
+## 🚀 Run Online
+[Click here to try the TACoS Viability Model in Google Sheets](https://docs.google.com/spreadsheets/d/your-sheet-id/edit?usp=sharing)
+
+
 
 ## Author
 Developed for **Ecommerce Growth Hacker Assessment**.
