@@ -28,6 +28,8 @@ Ad Spend: ₹50,000
 Revenue: ₹3,00,000  
 Margin: 30%  
 ➡ TACoS: 16.6%, Net Profit: ₹40,000 ✅ Viable
+## 📥 Download Model
+[Click here to download the Excel model](https://github.com/Kamalavathisb/tacos-viability-model/raw/main/TACoS_Viability_Model(1).xlsx)
 
 ## Author
 Developed for **Ecommerce Growth Hacker Assessment**.
